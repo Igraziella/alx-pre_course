@@ -1,2 +1,2 @@
 my second readme .md
-Updated, so cool!
+updated, so cool!
