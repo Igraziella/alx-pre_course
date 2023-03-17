@@ -1,2 +1,1 @@
-my second readme .md
-updated, so cool!
+my second readme updated. So cool!
